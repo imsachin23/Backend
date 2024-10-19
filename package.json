@@ -1,19 +1,16 @@
 {
-  "name": "backend",
+  "name": "bcknd",
   "version": "1.0.0",
-  "description": " a basic to deploy",
+  "description": "a backend at chai aur code",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keyword": [
-    "node",
+  "keywords": [
+    "javascript",
+    "backend",
     "chai"
   ],
-  "author": "node chai",
-  "license": "ISC",
-  "dependencies": {
-    "dotenv": "^16.4.5",
-    "express": "^4.21.0"
-  }
+  "author": "sachin",
+  "license": "ISC"
 }
